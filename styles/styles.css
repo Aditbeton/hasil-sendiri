@@ -25,6 +25,7 @@
 /* tambahan */
 .poto {
    filter: drop-shadow(10px 10px 10px rgb(252, 131, 19));
+  margin-bottom: 1.5rem;
 }
 
 * {
